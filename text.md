@@ -7,7 +7,22 @@ This is definitely **NOT** true. The Jews were put into forced labor camps where
 ## The Jews are a race.
 A race is a group with certain physical traits and features. The Jews aren't a race, since anyone can be Jewish. This interpretation should not be accepted since classifying them as a race will tie them to certain behaviors and actions that a group cannout be responsible for as a whole. 
 
+## The Jews were aliens who controlled all affairs in a country.
+When Christianity became the official religion of the Roman Empire, they assailed Jews as "christ-killers." Hitler referenced this and a fake book: "Protocols of the Learned Elders of Zion," which states a fake Jewish plot to take over the world.
+
+## Only Jews were killed in the Holocaust.
+5.93 million Jews were killed, but 1.9 million ethnic Poles were also killed. This was along the 3 million Soviet POWs.
+
+## Anti-semitism played a huge role in Hitler's rise.
+Germans only became anti-semites because they became Nazis. They mostly elected him to turn around their crumbling economy.
+
+## The Holocaust took up enough resources to prevent the Nazis from winning the war.
+The deportation trains had the least priority; they never prevented the military trains from passing. Also, Auschwitz generated 30 million Reichsmarks.
+
 ## Sources
 - https://mchekc.org/holocaust-misconceptions/
+- https://www.holocausteducation.org.uk/teacher-resources/subject-knowledge/myths-misconceptions/
+- http://www.northwestern.edu/newscenter/stories/2009/11/hayes.html
+
 
 

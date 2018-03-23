@@ -74,5 +74,18 @@ body {
     box-shadow: 0px 5px 20px black;  
     float: right;
     height: 300px;
+    max-width: 25vw;
     object-fit: cover;
+}
+
+a {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+li a {
+    margin: 30px;
 }
